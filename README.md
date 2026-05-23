@@ -27,4 +27,4 @@ To deliver "Ultra Sharp" digital experiences that prioritize client growth throu
 *Built for Growthlytics | Data-Driven Agency Branding*
 
 ## Live Demo
-Check out the live project here: growthlytics-s6rd.vercel.app
+Check out the live project here: https://growthlytics-s6rd.vercel.app/
